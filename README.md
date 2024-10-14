@@ -11,3 +11,7 @@ Este proyecto está orientado a desarrollar un modelo predictivo para la compete
 
 ### *Archivos en el Repositorio*
 - 01 - exploración.ipynb: Notebook para la exploración y análisis preliminar de los datos.
+- 02 - preprocesado.ipynb: Notebook para las operaciones de limpieza y preprocesado de los datos.
+
+### *Enlaces de video de YouTube*
+- Entrega 2: https://youtu.be/Syto2RbmuvQ
