@@ -15,3 +15,4 @@ Este proyecto está orientado a desarrollar un modelo predictivo para la compete
 
 ### *Enlaces de videos de YouTube*
 - Entrega 2: https://youtu.be/Syto2RbmuvQ
+- Entrega 3: https://youtu.be/N9_vsA3Zu7E
